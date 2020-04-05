@@ -1,0 +1,19 @@
+
+#headerContainer{
+    background: #afa8a89c;
+    height: 100px;
+}
+.incomeTitle, .spendTitle{
+    margin: 0px;
+    line-height: 22px;
+}
+.balance{
+    font-weight: bold;
+    font-size:16px;
+}
+.incomeTitle, .totalIncome{
+    color:green;
+}
+.spendTitle, .totalSpending{
+    color:red;
+}
